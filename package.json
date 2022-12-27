@@ -1,0 +1,23 @@
+{
+  "name": "parallax",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "server": "live-server",
+    "scss": "sass scss/index.scss:scc/style.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexxxcoder/parallax-efect.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexxxcoder/parallax-efect/issues"
+  },
+  "homepage": "https://github.com/alexxxcoder/parallax-efect#readme",
+  "dependencies": {
+    "sass": "^1.57.1"
+  }
+}
